@@ -1,5 +1,5 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg height="100" width="300">
+<svg height="100" width="400">
   <defs>
     <linearGradient id="linearGradientgayGO">
       <stop style="stop-color:#e40303;stop-opacity:1;" offset="0" />
@@ -31,8 +31,19 @@
       <stop style="stop-color:#21b1ff;stop-opacity:1;" offset="0.6666666" />
       <stop style="stop-color:#21b1ff;stop-opacity:1;" offset="1" />      
     </linearGradient>
+    <linearGradient id="linearGradientace">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" />
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0.25" />
+      <stop style="stop-color:#a3a3a3;stop-opacity:1;" offset="0.25" />
+      <stop style="stop-color:#a3a3a3;stop-opacity:1;" offset="0.5" />
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0.5" />
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0.75" />
+      <stop style="stop-color:#800080;stop-opacity:1;" offset="0.75" />
+      <stop style="stop-color:#800080;stop-opacity:1;" offset="1" />      
+    </linearGradient>
   </defs>
   <rect width="100" height="100" x="0" y="0" fill="url(#linearGradientgayGO)" />
   <rect width="100" height="100" x="100" y="0" fill="url(#linearGradientbi)" />
   <rect width="100" height="100" x="200" y="0" fill="url(#linearGradientpan)" />
+  <rect width="100" height="100" x="300" y="0" fill="url(#linearGradientace)" />
 </svg>
