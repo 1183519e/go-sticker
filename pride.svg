@@ -1,5 +1,5 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg height="100" width="600">
+<svg height="100" width="700">
   <defs>
     <linearGradient id="linearGradientgayGO">
       <stop style="stop-color:#e40303;stop-opacity:1;" offset="0" />
@@ -63,6 +63,14 @@
       <stop style="stop-color:#5BCEFA;stop-opacity:1;" offset="0.8" />
       <stop style="stop-color:#5BCEFA;stop-opacity:1;" offset="1" />      
     </linearGradient>
+    <linearGradient id="linearGradientgenderqueer">
+      <stop style="stop-color:#B67EDC;stop-opacity:1;" offset="0" />
+      <stop style="stop-color:#B67EDC;stop-opacity:1;" offset="0.3333333" />
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0.3333333" />
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0.6666666" />
+      <stop style="stop-color:#4B8124;stop-opacity:1;" offset="0.6666666" />
+      <stop style="stop-color:#4B8124;stop-opacity:1;" offset="1" />      
+    </linearGradient>
   </defs>
   <rect width="100" height="100" x="0" y="0" fill="url(#linearGradientgayGO)" />
   <rect width="100" height="100" x="100" y="0" fill="url(#linearGradientbi)" />
@@ -70,4 +78,5 @@
   <rect width="100" height="100" x="300" y="0" fill="url(#linearGradientace)" />
   <rect width="100" height="100" x="400" y="0" fill="url(#linearGradientnonbinary)" />
   <rect width="100" height="100" x="500" y="0" fill="url(#linearGradienttrans)" />
+  <rect width="100" height="100" x="600" y="0" fill="url(#linearGradientgenderqueer)" />
 </svg>
