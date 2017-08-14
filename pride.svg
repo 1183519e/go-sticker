@@ -32,8 +32,8 @@
       <stop style="stop-color:#21b1ff;stop-opacity:1;" offset="1" />      
     </linearGradient>
     <linearGradient id="linearGradientace">
-      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" />
-      <stop style="stop-color:#000000;stop-opacity:1;" offset="0.25" />
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="0" />
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="0.25" />
       <stop style="stop-color:#a3a3a3;stop-opacity:1;" offset="0.25" />
       <stop style="stop-color:#a3a3a3;stop-opacity:1;" offset="0.5" />
       <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0.5" />
