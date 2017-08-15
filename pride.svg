@@ -1,5 +1,5 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg height="100" width="700">
+<svg height="100" width="800">
   <defs>
     <linearGradient id="linearGradientgayGO">
       <stop style="stop-color:#e40303;stop-opacity:1;" offset="0" />
@@ -71,6 +71,26 @@
       <stop style="stop-color:#4B8124;stop-opacity:1;" offset="0.6666666" />
       <stop style="stop-color:#4B8124;stop-opacity:1;" offset="1" />      
     </linearGradient>
+    <linearGradient id="linearGradientbdsm">
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="0" />
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="0.1111111" />
+      <stop style="stop-color:#004dff;stop-opacity:1;" offset="0.1111111" />
+      <stop style="stop-color:#004dff;stop-opacity:1;" offset="0.2222222" />
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="0.2222222" />
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="0.3333333" />
+      <stop style="stop-color:#004dff;stop-opacity:1;" offset="0.3333333" />
+      <stop style="stop-color:#004dff;stop-opacity:1;" offset="0.4444444" />
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0.4444444" />
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0.5555555" />
+      <stop style="stop-color:#004dff;stop-opacity:1;" offset="0.5555555" />
+      <stop style="stop-color:#004dff;stop-opacity:1;" offset="0.6666666" />
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="0.6666666" />
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="0.7777777" />
+      <stop style="stop-color:#004dff;stop-opacity:1;" offset="0.7777777" />
+      <stop style="stop-color:#004dff;stop-opacity:1;" offset="0.8888888" />
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="0.8888888" />
+      <stop style="stop-color:#292929;stop-opacity:1;" offset="1" />
+    </linearGradient>
   </defs>
   <rect width="100" height="100" x="0" y="0" fill="url(#linearGradientgayGO)" />
   <rect width="100" height="100" x="100" y="0" fill="url(#linearGradientbi)" />
@@ -79,4 +99,5 @@
   <rect width="100" height="100" x="400" y="0" fill="url(#linearGradientnonbinary)" />
   <rect width="100" height="100" x="500" y="0" fill="url(#linearGradienttrans)" />
   <rect width="100" height="100" x="600" y="0" fill="url(#linearGradientgenderqueer)" />
+  <rect width="100" height="100" x="700" y="0" fill="url(#linearGradientbdsm)" />
 </svg>
